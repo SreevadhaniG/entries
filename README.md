@@ -11,3 +11,10 @@ output:
 4
 5
 The second largest element is: 4
+
+#palidrome check
+output:
+
+\entries> java palindrome.java
+racecar
+True
